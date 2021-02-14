@@ -5,6 +5,9 @@
   margin: 0 auto;
   position: relative;
 }
+.loader{
+  text-align: center;
+}
 
 .gallery-header {
   display: none;
